@@ -2,7 +2,7 @@
 
 """charcount.py: create a histogram of character occurrences in a text file.
 
-Usage: ./charcount.py text_file
+Usage: ./charcount.py <file>
 """
 
 from sys import argv, exit
