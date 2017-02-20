@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-"""charcount.py: create a histogram of character occurrences in a text file.
+"""charcount.py: create a histogram of non-whitespace character occurrences in 
+a text file. Output the ten most frequent characters.
 
 Usage: ./charcount.py <file>
 """
