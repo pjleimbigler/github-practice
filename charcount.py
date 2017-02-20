@@ -26,8 +26,6 @@ with open(arg1, 'r') as f:
 # Create a list of characters, excluding whitespace:
 chars = [c.lower() for c in file_contents if not c.isspace()]
 
-nc = len(chars)
-
 char_dict = {c: chars.count(c) for c in chars}
 
 # Recall that sort() sorts a list (and only a list) in-place, whereas
