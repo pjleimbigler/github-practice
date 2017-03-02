@@ -3,3 +3,6 @@ This sentence was typed in GitHub's online editor.
 Also, I added a few 's' characters to the first line, to see what a changed line looks like.
 I then deleted those extra 's' characters and added this line on Monday,
 February 20.
+
+Testing line insertion. Inserted this line, and deleted the "Also, I added a few
+'s' characters to the first line" line.
