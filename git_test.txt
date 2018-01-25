@@ -1,4 +1,5 @@
 Nothing to see here, folks, move along. Just testing git.
+Inserting a new line on 2018-1-24 from branch my-first-branch...
 This sentence was typed in GitHub's online editor.
 Also, I added a few 's' characters to the first line, to see what a changed 
 line looks like.
