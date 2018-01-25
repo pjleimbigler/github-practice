@@ -1,8 +1,23 @@
 Nothing to see here, folks, move along. Just testing git.
 This sentence was typed in GitHub's online editor.
-Also, I added a few 's' characters to the first line, to see what a changed line looks like.
+Also, I added a few 's' characters to the first line, to see what a changed 
+line looks like.
 I then deleted those extra 's' characters and added this line on Monday,
 February 20.
 
 Testing line insertion. Inserted this line, and deleted the "Also, I added a few
 's' characters to the first line" line.
+
+This line was added on 2018-1-24 around 9pm.
+On that same date, I also added a line break to a line above.
+
+Random vim tips!
+1. To record a macro, hit q, then a register [a-z], then do something, then hit
+q again. Play back this register with [num]@[register name].
+2. To rewrap lines in vim, select them in visual mode, then hit gq. This even
+understands numbered lists, like this one!
+3. Pasting plaintext into vim tends to be painful. I don't yet know the
+detailed reasons why pasting is problematic, but the idiom to get used to is to
+open vim, run :set paste, and paste to your heart's content.
+4.
+5.
